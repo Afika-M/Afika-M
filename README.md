@@ -7,4 +7,6 @@ I am currently working as a Salesforce Administrator, building strong skills in 
 💡 **Passion:** Creating scalable, user-focused platforms and exploring emerging tech  
 💻 **Tech Stack:** Salesforce (Admin + Dev), Apex, Visualforce, Lightning, HTML, CSS, JavaScript, Git  
 
-Let's build something impactful together!
+📫 **Let’s connect:** [LinkedIn]([https://linkedin.com/in/aya-m](https://www.linkedin.com/in/ayabongamtsotso1/))
+
+Excited to grow, build, and contribute to innovative Salesforce projects!
